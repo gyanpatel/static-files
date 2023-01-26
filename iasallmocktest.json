@@ -3,15 +3,15 @@
 		"question": "What is the capital of India ?",
 		"answer": "New Delhi",
 		"options": [{
-				"1": "New Delhi"
+				"opt": "New Delhi"
 			}, {
-				"2": "Chennai"
+				"opt": "Chennai"
 			},
 			{
-				"3": "Mumbai"
+				"opt": "Mumbai"
 			},
 			{
-				"4": "Kolkata"
+				"opt": "Kolkata"
 			}
 
 		]
@@ -21,16 +21,16 @@
 		"question": "What is the capital of UK ?",
 		"answer": "London",
 		"options": [{
-				"1": "London"
+				"opt": "London"
 			},
 			{
-				"2": "Bracknel"
+				"opt": "Bracknel"
 			},
 			{
-				"3": "Reading"
+				"opt": "Reading"
 			},
 			{
-				"4": "Bershire"
+				"opt": "Bershire"
 			}
 
 		]
