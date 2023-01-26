@@ -1,0 +1,38 @@
+[{
+		"qid": "1",
+		"question": "What is the capital of India ?",
+		"answer": "New Delhi",
+		"options": [{
+				"1": "New Delhi"
+			}, {
+				"2": "Chennai"
+			},
+			{
+				"3": "Mumbai"
+			},
+			{
+				"4": "Kolkata"
+			}
+
+		]
+	},
+	{
+		"qid": "2",
+		"question": "What is the capital of UK ?",
+		"answer": "London",
+		"options": [{
+				"1": "London"
+			},
+			{
+				"2": "Bracknel"
+			},
+			{
+				"3": "Reading"
+			},
+			{
+				"4": "Bershire"
+			}
+
+		]
+	}
+]

@@ -1,3 +1,10 @@
-[ {"testtype":"Mock Test"},
-{"testtype":"Practice"},
-{"testtype":"Other Test"}]
+[{
+		"testtype": "Practice"
+	},
+	{
+		"testtype": "Mock Test"
+	},
+	{
+		"testtype": "Other Test"
+	}
+]
