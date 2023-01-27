@@ -1,8 +1,8 @@
 [
 	{
 		"qid": "1",
-		"qtype":0,
-		"question": "What is 24+4 ?",
+		"qtype":1,
+		"question": "q1 ?",
 		"answer": "28",
 		"options": [{
 				"opt": "3-1/2"
@@ -21,7 +21,7 @@
 
 		]
 	},{
-		"qid": "1",
+		"qid": "2",
 		"qtype":1,
 		"question": "What is the capital of India ?",
 		"answer": "28",
@@ -43,9 +43,9 @@
 		]
 	},
 	{
-		"qid": "2",
+		"qid": "3",
 		"qtype":0,
-		"question": "What is 24+4 ?",
+		"question": "What  q3?",
 		"answer": "28",
 		"options": [{
 				"opt": "3-1/2"
