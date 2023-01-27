@@ -1,50 +1,15 @@
 [{
     "examid": "1",
-    "examname": "Home",
-    "subject": [{
-            "subname": "Maths"
-        },
-        {
-            "subname": "Science"
-        }
-
-    ]
+    "examname": "Home"
 },
 {
     "examid": "2",
-    "examname": "IAS",
+    "examname": "UK 11 Plus",
     "subject": [{
             "subname": "All"
         },
         {
-            "subname": "IASMaths"
-        },
-        {
-            "subname": "IASScience"
-        }
-
-    ]
-},
-{
-    "examid": "3",
-    "examname": "PCS",
-    "subject": [{
-            "subname": "PCSMaths"
-        },
-        {
-            "subname": "PCSScience"
-        }
-
-    ]
-},
-{
-    "examid": "4",
-    "examname": "Bank",
-    "subject": [{
-            "subname": "BankMaths"
-        },
-        {
-            "subname": "BankScience"
+            "subname": "Maths"
         }
 
     ]
