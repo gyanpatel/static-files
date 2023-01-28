@@ -2,7 +2,7 @@
 	{
 		"qid": "1",
 		"qtype":1,
-		"question": "q1 ?",
+		"question": "",
 		"answer": "28",
 		"options": [{
 				"opt": "3-1/2"
@@ -23,21 +23,21 @@
 	},{
 		"qid": "2",
 		"qtype":1,
-		"question": "What is the capital of India ?",
-		"answer": "28",
+		"question": "",
+		"answer": "160",
 		"options": [{
-				"opt": "3-1/2"
+				"opt": "16"
 			}, {
-				"opt": "4"
+				"opt": "40"
 			},
 			{
-				"opt": "18"
+				"opt": "160"
 			},
 			{
-				"opt": "28"
+				"opt": "400"
 			},
 			{
-				"opt": "32"
+				"opt": "4000"
 			}
 
 		]
@@ -45,21 +45,21 @@
 	{
 		"qid": "3",
 		"qtype":0,
-		"question": "What  q3?",
+		"question": "What is the captial of UK?",
 		"answer": "28",
 		"options": [{
-				"opt": "3-1/2"
+				"opt": "London"
 			}, {
-				"opt": "4"
+				"opt": "Bracknell"
 			},
 			{
-				"opt": "18"
+				"opt": "Berkshire"
 			},
 			{
-				"opt": "28"
+				"opt": "Texas"
 			},
 			{
-				"opt": "32"
+				"opt": "Reading"
 			}
 
 		]
