@@ -1,0 +1,67 @@
+[
+	{
+		"qid": "1",
+		"qtype":1,
+		"question": "",
+		"answer": "28",
+		"options": [{
+				"opt": "3-1/2"
+			}, {
+				"opt": "4"
+			},
+			{
+				"opt": "18"
+			},
+			{
+				"opt": "28"
+			},
+			{
+				"opt": "32"
+			}
+
+		]
+	},{
+		"qid": "2",
+		"qtype":1,
+		"question": "",
+		"answer": "160",
+		"options": [{
+				"opt": "16"
+			}, {
+				"opt": "40"
+			},
+			{
+				"opt": "160"
+			},
+			{
+				"opt": "400"
+			},
+			{
+				"opt": "4000"
+			}
+
+		]
+	},
+	{
+		"qid": "3",
+		"qtype":0,
+		"question": "What is the captial of UK?",
+		"answer": "London",
+		"options": [{
+				"opt": "London"
+			}, {
+				"opt": "Bracknell"
+			},
+			{
+				"opt": "Berkshire"
+			},
+			{
+				"opt": "Texas"
+			},
+			{
+				"opt": "Reading"
+			}
+
+		]
+	}
+] 
