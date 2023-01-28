@@ -46,7 +46,7 @@
 		"qid": "3",
 		"qtype":0,
 		"question": "What is the captial of UK?",
-		"answer": "28",
+		"answer": "London",
 		"options": [{
 				"opt": "London"
 			}, {
