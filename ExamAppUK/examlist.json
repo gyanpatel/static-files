@@ -14,4 +14,17 @@
 
     ]
 }
+    ,
+{
+    "examid": "2",
+    "examname": "Scrum",
+    "subject": [{
+            "subname": "Professional Scrum Master I"
+        },
+        {
+            "subname": "Professional Scrum Master I"
+        }
+
+    ]
+}
 ]
