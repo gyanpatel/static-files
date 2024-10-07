@@ -4,12 +4,12 @@
 },
 {
     "examid": "2",
-    "examname": "UK 11 Plus",
+    "examname": "AWS",
     "subject": [{
-            "subname": "All"
+            "subname": "AWS Certified Solutions Architect Associate"
         },
         {
-            "subname": "Maths"
+            "subname": ""AWS Certified Developer Associate""
         }
 
     ]
@@ -22,7 +22,7 @@
             "subname": "Professional Scrum Master I"
         },
         {
-            "subname": "Professional Scrum Master I"
+            "subname": "Professional Scrum Master II"
         }
 
     ]
