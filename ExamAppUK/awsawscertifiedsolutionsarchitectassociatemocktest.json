@@ -1,8 +1,6 @@
 [{
 		"qid": "1",
-		"question": "A company collects data for temperature, humidity, and atmospheric pressure in cities across multiple continents. The average volume of data that the company collects from each site daily is 500 GB. Each site has a high-speed Internet connection.
-The company wants to aggregate the data from all these global sites as quickly as possible in a single Amazon S3 bucket. The solution must minimize operational complexity.
-Which solution meets these requirements?",
+		"question": "A company collects data for temperature, humidity, and atmospheric pressure in cities across multiple continents. The average volume of data that the company collects from each site daily is 500 GB. Each site has a high-speed Internet connection. The company wants to aggregate the data from all these global sites as quickly as possible in a single Amazon S3 bucket. The solution must minimize operational complexity. Which solution meets these requirements?",
 		"answer": "Turn on S3 Transfer Acceleration on the destination S3 bucket. Use multipart uploads to directly upload site data to the destination S3 bucket.",
 		"options": [{
 				"opt": "A. Turn on S3 Transfer Acceleration on the destination S3 bucket. Use multipart uploads to directly upload site data to the destination S3 bucket. Most Voted"
@@ -20,8 +18,7 @@ Which solution meets these requirements?",
 	},
 	{
 		"qid": "2",
-		"question": "A company needs the ability to analyze the log files of its proprietary application. The logs are stored in JSON format in an Amazon S3 bucket. Queries will be simple and will run on-demand. A solutions architect needs to perform the analysis with minimal changes to the existing architecture.
-What should the solutions architect do to meet these requirements with the LEAST amount of operational overhead?",
+		"question": "A company needs the ability to analyze the log files of its proprietary application. The logs are stored in JSON format in an Amazon S3 bucket. Queries will be simple and will run on-demand. A solutions architect needs to perform the analysis with minimal changes to the existing architecture. What should the solutions architect do to meet these requirements with the LEAST amount of operational overhead?",
 		"answer": "Use Amazon Athena directly with Amazon S3 to run the queries as needed.",
 		"options": [{
 				"opt": "Use Amazon Redshift to load all the content into one place and run the SQL queries as needed."
